@@ -1,6 +1,8 @@
 # Sudoku2.0
 Sudoku made with Java Swing and Recursion
 
+![Sudoku2](https://user-images.githubusercontent.com/33691403/135431341-03926f23-d27e-4d56-8ec0-8b09fe642767.JPG)
+
 Info:
 - simple Sudoku made with Java Swing
 - random Levels with a recursion algorithm
